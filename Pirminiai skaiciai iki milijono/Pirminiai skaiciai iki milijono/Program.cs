@@ -16,14 +16,10 @@ namespace Pirminiai_skaiciai_iki_milijono
                 if (i == 1) Console.WriteLine(i);
                 for ( int j = 2; j <= i;j++ )
                 {
-                    
                     if(i==j) Console.WriteLine(i);
                     if (i % j == 0) break;
-                   
-                }
-                  
+                }   
             }
-             
             Console.ReadKey();
         }
     }
