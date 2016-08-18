@@ -1,0 +1,6 @@
+c:\users\zilvinas\documents\visual studio 2013\Projects\bandymaiSuKnyga\bandymaiSuKnyga\bin\Debug\bandymaiSuKnyga.exe.config
+c:\users\zilvinas\documents\visual studio 2013\Projects\bandymaiSuKnyga\bandymaiSuKnyga\bin\Debug\bandymaiSuKnyga.exe
+c:\users\zilvinas\documents\visual studio 2013\Projects\bandymaiSuKnyga\bandymaiSuKnyga\bin\Debug\bandymaiSuKnyga.pdb
+c:\users\zilvinas\documents\visual studio 2013\Projects\bandymaiSuKnyga\bandymaiSuKnyga\obj\Debug\bandymaiSuKnyga.csprojResolveAssemblyReference.cache
+c:\users\zilvinas\documents\visual studio 2013\Projects\bandymaiSuKnyga\bandymaiSuKnyga\obj\Debug\bandymaiSuKnyga.exe
+c:\users\zilvinas\documents\visual studio 2013\Projects\bandymaiSuKnyga\bandymaiSuKnyga\obj\Debug\bandymaiSuKnyga.pdb
