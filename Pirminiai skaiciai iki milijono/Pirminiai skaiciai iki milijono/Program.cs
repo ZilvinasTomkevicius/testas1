@@ -10,13 +10,11 @@ namespace Pirminiai_skaiciai_iki_milijono
     {
         static void Main(string[] args)
         {
-            int j;
             int x = 100;
-            int k = 0;
             for(int i = 1; i<=x ;i++)
             {
                 if (i == 1) Console.WriteLine(i);
-                for (  j = 2; j <= i;j++ )
+                for ( int j = 2; j <= i;j++ )
                 {
                     
                     if(i==j) Console.WriteLine(i);

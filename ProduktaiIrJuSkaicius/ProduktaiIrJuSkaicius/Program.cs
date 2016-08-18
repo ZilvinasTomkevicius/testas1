@@ -10,6 +10,14 @@ namespace ProduktaiIrJuSkaicius
     {
         static void Main(string[] args)
         {
+            int produktuSkaicius = 0;
+            Console.WriteLine("iveskite produktus");
+            string produktai = Console.ReadLine();
+                foreach(char kablelis in produktai)
+                if(kablelis == ',') produktuSkaicius ++;
+            produktuSkaicius += 1;
+            Console.WriteLine("ivesti prduktai: " + produktai + ". ju skaicius: " + produktuSkaicius);
+            Console.ReadKey();
         }
     }
 }

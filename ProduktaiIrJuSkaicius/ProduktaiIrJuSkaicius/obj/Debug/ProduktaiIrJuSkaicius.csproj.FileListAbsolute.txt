@@ -1,1 +1,7 @@
 c:\users\zilvinas\documents\visual studio 2013\Projects\ProduktaiIrJuSkaicius\ProduktaiIrJuSkaicius\bin\Debug\ProduktaiIrJuSkaicius.exe.config
+C:\Users\Zilvinas\Documents\Visual Studio 2013\Projects\GitHub\testas1\ProduktaiIrJuSkaicius\ProduktaiIrJuSkaicius\bin\Debug\ProduktaiIrJuSkaicius.exe.config
+C:\Users\Zilvinas\Documents\Visual Studio 2013\Projects\GitHub\testas1\ProduktaiIrJuSkaicius\ProduktaiIrJuSkaicius\bin\Debug\ProduktaiIrJuSkaicius.exe
+C:\Users\Zilvinas\Documents\Visual Studio 2013\Projects\GitHub\testas1\ProduktaiIrJuSkaicius\ProduktaiIrJuSkaicius\bin\Debug\ProduktaiIrJuSkaicius.pdb
+C:\Users\Zilvinas\Documents\Visual Studio 2013\Projects\GitHub\testas1\ProduktaiIrJuSkaicius\ProduktaiIrJuSkaicius\obj\Debug\ProduktaiIrJuSkaicius.csprojResolveAssemblyReference.cache
+C:\Users\Zilvinas\Documents\Visual Studio 2013\Projects\GitHub\testas1\ProduktaiIrJuSkaicius\ProduktaiIrJuSkaicius\obj\Debug\ProduktaiIrJuSkaicius.exe
+C:\Users\Zilvinas\Documents\Visual Studio 2013\Projects\GitHub\testas1\ProduktaiIrJuSkaicius\ProduktaiIrJuSkaicius\obj\Debug\ProduktaiIrJuSkaicius.pdb
