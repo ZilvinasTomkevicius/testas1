@@ -1,0 +1,9 @@
+c:\users\zilvinas\documents\visual studio 2013\Projects\konvertavimasIsSkaiciuIraides\konvertavimasIsSkaiciuIraides\bin\Debug\konvertavimasIsSkaiciuIraides.exe.config
+c:\users\zilvinas\documents\visual studio 2013\Projects\konvertavimasIsSkaiciuIraides\konvertavimasIsSkaiciuIraides\bin\Debug\konvertavimasIsSkaiciuIraides.exe
+c:\users\zilvinas\documents\visual studio 2013\Projects\konvertavimasIsSkaiciuIraides\konvertavimasIsSkaiciuIraides\bin\Debug\konvertavimasIsSkaiciuIraides.pdb
+c:\users\zilvinas\documents\visual studio 2013\Projects\konvertavimasIsSkaiciuIraides\konvertavimasIsSkaiciuIraides\obj\Debug\konvertavimasIsSkaiciuIraides.csprojResolveAssemblyReference.cache
+c:\users\zilvinas\documents\visual studio 2013\Projects\konvertavimasIsSkaiciuIraides\konvertavimasIsSkaiciuIraides\obj\Debug\konvertavimasIsSkaiciuIraides.exe
+c:\users\zilvinas\documents\visual studio 2013\Projects\konvertavimasIsSkaiciuIraides\konvertavimasIsSkaiciuIraides\obj\Debug\konvertavimasIsSkaiciuIraides.pdb
+C:\Users\Zilvinas\Documents\Visual Studio 2013\Projects\GitHub\testas1\konvertavimas Is Skaiciu I raides\konvertavimasIsSkaiciuIraides\bin\Debug\konvertavimasIsSkaiciuIraides.exe.config
+C:\Users\Zilvinas\Documents\Visual Studio 2013\Projects\GitHub\testas1\konvertavimas Is Skaiciu I raides\konvertavimasIsSkaiciuIraides\obj\Debug\konvertavimasIsSkaiciuIraides.exe
+C:\Users\Zilvinas\Documents\Visual Studio 2013\Projects\GitHub\testas1\konvertavimas Is Skaiciu I raides\konvertavimasIsSkaiciuIraides\obj\Debug\konvertavimasIsSkaiciuIraides.pdb
