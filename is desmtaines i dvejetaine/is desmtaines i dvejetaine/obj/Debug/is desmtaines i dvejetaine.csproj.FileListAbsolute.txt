@@ -1,0 +1,6 @@
+c:\users\zilvinas\documents\visual studio 2013\Projects\is desmtaines i dvejetaine\is desmtaines i dvejetaine\bin\Debug\is desmtaines i dvejetaine.exe.config
+c:\users\zilvinas\documents\visual studio 2013\Projects\is desmtaines i dvejetaine\is desmtaines i dvejetaine\bin\Debug\is desmtaines i dvejetaine.exe
+c:\users\zilvinas\documents\visual studio 2013\Projects\is desmtaines i dvejetaine\is desmtaines i dvejetaine\bin\Debug\is desmtaines i dvejetaine.pdb
+c:\users\zilvinas\documents\visual studio 2013\Projects\is desmtaines i dvejetaine\is desmtaines i dvejetaine\obj\Debug\is desmtaines i dvejetaine.csprojResolveAssemblyReference.cache
+c:\users\zilvinas\documents\visual studio 2013\Projects\is desmtaines i dvejetaine\is desmtaines i dvejetaine\obj\Debug\is desmtaines i dvejetaine.exe
+c:\users\zilvinas\documents\visual studio 2013\Projects\is desmtaines i dvejetaine\is desmtaines i dvejetaine\obj\Debug\is desmtaines i dvejetaine.pdb
