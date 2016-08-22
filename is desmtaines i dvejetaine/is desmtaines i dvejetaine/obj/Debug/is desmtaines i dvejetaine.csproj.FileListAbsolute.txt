@@ -4,3 +4,6 @@ c:\users\zilvinas\documents\visual studio 2013\Projects\is desmtaines i dvejetai
 c:\users\zilvinas\documents\visual studio 2013\Projects\is desmtaines i dvejetaine\is desmtaines i dvejetaine\obj\Debug\is desmtaines i dvejetaine.csprojResolveAssemblyReference.cache
 c:\users\zilvinas\documents\visual studio 2013\Projects\is desmtaines i dvejetaine\is desmtaines i dvejetaine\obj\Debug\is desmtaines i dvejetaine.exe
 c:\users\zilvinas\documents\visual studio 2013\Projects\is desmtaines i dvejetaine\is desmtaines i dvejetaine\obj\Debug\is desmtaines i dvejetaine.pdb
+C:\Users\Zilvinas\Documents\Visual Studio 2013\Projects\GitHub\testas1\is desmtaines i dvejetaine\is desmtaines i dvejetaine\bin\Debug\is desmtaines i dvejetaine.exe.config
+C:\Users\Zilvinas\Documents\Visual Studio 2013\Projects\GitHub\testas1\is desmtaines i dvejetaine\is desmtaines i dvejetaine\obj\Debug\is desmtaines i dvejetaine.exe
+C:\Users\Zilvinas\Documents\Visual Studio 2013\Projects\GitHub\testas1\is desmtaines i dvejetaine\is desmtaines i dvejetaine\obj\Debug\is desmtaines i dvejetaine.pdb
