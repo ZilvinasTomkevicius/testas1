@@ -1,0 +1,6 @@
+c:\users\zilvinas\documents\visual studio 2013\Projects\balsiai priebalsiai ir sk zenklai\balsiai priebalsiai ir sk zenklai\bin\Debug\balsiai priebalsiai ir sk zenklai.exe.config
+c:\users\zilvinas\documents\visual studio 2013\Projects\balsiai priebalsiai ir sk zenklai\balsiai priebalsiai ir sk zenklai\bin\Debug\balsiai priebalsiai ir sk zenklai.exe
+c:\users\zilvinas\documents\visual studio 2013\Projects\balsiai priebalsiai ir sk zenklai\balsiai priebalsiai ir sk zenklai\bin\Debug\balsiai priebalsiai ir sk zenklai.pdb
+c:\users\zilvinas\documents\visual studio 2013\Projects\balsiai priebalsiai ir sk zenklai\balsiai priebalsiai ir sk zenklai\obj\Debug\balsiai priebalsiai ir sk zenklai.csprojResolveAssemblyReference.cache
+c:\users\zilvinas\documents\visual studio 2013\Projects\balsiai priebalsiai ir sk zenklai\balsiai priebalsiai ir sk zenklai\obj\Debug\balsiai priebalsiai ir sk zenklai.exe
+c:\users\zilvinas\documents\visual studio 2013\Projects\balsiai priebalsiai ir sk zenklai\balsiai priebalsiai ir sk zenklai\obj\Debug\balsiai priebalsiai ir sk zenklai.pdb
