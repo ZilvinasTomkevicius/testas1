@@ -10,25 +10,25 @@ namespace balsiai_priebalsiai_ir_sk_zenklai
     {
         static void Main(string[] args)
         {
+            // si programa suskaiciuoja kiek blasiu, priebalsiu ir skiriamuju zenklu yra sakinyje
             Console.WriteLine("iveskite sakini");
             string sakinys = Console.ReadLine();
+            //kintamieji balsiu, priebalsiu ir skiriamuju zenklu kiekiui issaugoti
             int balsiuSkaicius = 0;
-            // siuos masyvus apsirasiau is pradziu, bet po to ju neprireike
-           // char[] balsiuArry = { 'a', 'e', 'i', 'y', 'o', 'u', };
-           // char[] priebalsiuArry = { 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'k', 'l', 'm', 'n', 'p', 'r', 's', 't', 'v', 'z' };
-           // char[] skyrZenklArry = { ',', '.', ':', ';', '-' };
-            int sakinioIlgis = sakinys.Length;
-            // sis foreach ciklas suskaiciuoja visas balses
-            foreach(char balsiai in sakinys)
+            int priebalsiuSkaicius = 0;
+            int skirZenklSkaicius = 0;
+            //aprasome balsiu, priebalsiu ir skiriamuju zenklu masyvus
+            char[] balsiuArry = { 'a', 'e', 'i', 'y', 'o', 'u', };
+            char[] priebalsiuArry = { 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'k', 'l', 'm', 'n', 'p', 'r', 's', 't', 'v', 'z' };
+            char[] skyrZenklArry = { ',', '.', ':', ';', '-' }; 
+            //naudojame foreach cikla ir kas kart aptikus balse, priebalse arba skiriamaji zenkla, padidiname jo skaiciu kiekviename is kintamuju
+            foreach(char simbolis in sakinys)
             {
-                if (balsiai == 'a') balsiuSkaicius++;
-                if (balsiai == 'e') balsiuSkaicius++;
-                if (balsiai == 'i') balsiuSkaicius++;
-                if (balsiai == 'y') balsiuSkaicius++;
-                if (balsiai == 'o') balsiuSkaicius++;
-                if (balsiai == 'u') balsiuSkaicius++;
-            }
-            Console.WriteLine("balsiu sakinyje yra {0}", balsiuSkaicius);
+                if (priebalsiuArry.Contains(simbolis)) priebalsiuSkaicius++;
+                if (balsiuArry.Contains(simbolis)) balsiuSkaicius++;
+                if (skyrZenklArry.Contains(simbolis)) skirZenklSkaicius++;
+            }      
+            Console.WriteLine("priebalsiu sakinyje yra {0}, balsiu {1}, o skiriamuju zenklu {2}", priebalsiuSkaicius, balsiuSkaicius, skirZenklSkaicius);
             Console.ReadLine();
         }
     }

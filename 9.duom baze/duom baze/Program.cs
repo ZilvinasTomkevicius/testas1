@@ -33,19 +33,11 @@ namespace duom_baze
                 }
                 //pateikiame salyga atsakymui "ne"
                 if (atsakymas2 == "ne") break;                         
-            } 
-            //isspausdiname masyvo turini i ekrana  
-            for(int i = 0; i <= padetis; i++)
-            {
-                Console.WriteLine(asmenuInfo[i]);
             }
-            //isspausdiname masyvo uzimtu vietu skaiciu
-            Console.WriteLine(padetis);
-            //nuskaitome masyvo turini i .txt faila, taciau taip neivyksta :(           
+            //nuskaitome masyvo turini i .txt faila          
             for(int x = 0; x <= padetis; x++)
             {
-                using (StreamWriter duomenys = new StreamWriter("asmenys.txt"))
-                    duomenys.WriteLine(asmenuInfo[x]);         
+                File.AppendAllText("asmenys.txt", asmenuInfo[x] + Environment.NewLine);    
             }           
             Console.ReadLine();
         }

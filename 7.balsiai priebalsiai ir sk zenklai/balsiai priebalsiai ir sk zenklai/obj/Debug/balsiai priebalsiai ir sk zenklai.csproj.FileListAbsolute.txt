@@ -4,3 +4,9 @@ c:\users\zilvinas\documents\visual studio 2013\Projects\balsiai priebalsiai ir s
 c:\users\zilvinas\documents\visual studio 2013\Projects\balsiai priebalsiai ir sk zenklai\balsiai priebalsiai ir sk zenklai\obj\Debug\balsiai priebalsiai ir sk zenklai.csprojResolveAssemblyReference.cache
 c:\users\zilvinas\documents\visual studio 2013\Projects\balsiai priebalsiai ir sk zenklai\balsiai priebalsiai ir sk zenklai\obj\Debug\balsiai priebalsiai ir sk zenklai.exe
 c:\users\zilvinas\documents\visual studio 2013\Projects\balsiai priebalsiai ir sk zenklai\balsiai priebalsiai ir sk zenklai\obj\Debug\balsiai priebalsiai ir sk zenklai.pdb
+C:\Users\Zilvinas\Documents\Visual Studio 2015\Projects\GitHub\testas1\7.balsiai priebalsiai ir sk zenklai\balsiai priebalsiai ir sk zenklai\bin\Debug\balsiai priebalsiai ir sk zenklai.exe.config
+C:\Users\Zilvinas\Documents\Visual Studio 2015\Projects\GitHub\testas1\7.balsiai priebalsiai ir sk zenklai\balsiai priebalsiai ir sk zenklai\obj\Debug\balsiai priebalsiai ir sk zenklai.exe
+C:\Users\Zilvinas\Documents\Visual Studio 2015\Projects\GitHub\testas1\7.balsiai priebalsiai ir sk zenklai\balsiai priebalsiai ir sk zenklai\obj\Debug\balsiai priebalsiai ir sk zenklai.pdb
+C:\Users\Zilvinas\Documents\Visual Studio 2015\Projects\GitHub\testas1\7.balsiai priebalsiai ir sk zenklai\balsiai priebalsiai ir sk zenklai\bin\Debug\balsiai priebalsiai ir sk zenklai.exe
+C:\Users\Zilvinas\Documents\Visual Studio 2015\Projects\GitHub\testas1\7.balsiai priebalsiai ir sk zenklai\balsiai priebalsiai ir sk zenklai\bin\Debug\balsiai priebalsiai ir sk zenklai.pdb
+C:\Users\Zilvinas\Documents\Visual Studio 2015\Projects\GitHub\testas1\7.balsiai priebalsiai ir sk zenklai\balsiai priebalsiai ir sk zenklai\obj\Debug\balsiai priebalsiai ir sk zenklai.csprojResolveAssemblyReference.cache
