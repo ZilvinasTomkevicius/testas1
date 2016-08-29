@@ -1,0 +1,3 @@
+C:\Users\Zilvinas\Documents\Visual Studio 2015\Projects\GitHub\testas1\1.bandymaiSuKnyga\bandymaiSuKnyga\bin\Debug\bandymaiSuKnyga.exe.config
+C:\Users\Zilvinas\Documents\Visual Studio 2015\Projects\GitHub\testas1\1.bandymaiSuKnyga\bandymaiSuKnyga\obj\Debug\bandymaiSuKnyga.exe
+C:\Users\Zilvinas\Documents\Visual Studio 2015\Projects\GitHub\testas1\1.bandymaiSuKnyga\bandymaiSuKnyga\obj\Debug\bandymaiSuKnyga.pdb

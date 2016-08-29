@@ -1,0 +1,2 @@
+c:\users\zilvinas\documents\visual studio 2013\Projects\klases\klases\bin\Debug\klases.exe.config
+C:\Users\Zilvinas\Documents\Visual Studio 2013\Projects\GitHub\testas1\klases\klases\bin\Debug\klases.exe.config

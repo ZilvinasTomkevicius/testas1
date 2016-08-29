@@ -1,6 +1,0 @@
-c:\users\zilvinas\documents\visual studio 2013\Projects\helloWorld\helloWorld\bin\Debug\helloWorld.exe.config
-c:\users\zilvinas\documents\visual studio 2013\Projects\helloWorld\helloWorld\bin\Debug\helloWorld.exe
-c:\users\zilvinas\documents\visual studio 2013\Projects\helloWorld\helloWorld\bin\Debug\helloWorld.pdb
-c:\users\zilvinas\documents\visual studio 2013\Projects\helloWorld\helloWorld\obj\Debug\helloWorld.csprojResolveAssemblyReference.cache
-c:\users\zilvinas\documents\visual studio 2013\Projects\helloWorld\helloWorld\obj\Debug\helloWorld.exe
-c:\users\zilvinas\documents\visual studio 2013\Projects\helloWorld\helloWorld\obj\Debug\helloWorld.pdb

@@ -1,0 +1,15 @@
+c:\users\zilvinas\documents\visual studio 2013\Projects\Pirminiai skaiciai iki milijono\Pirminiai skaiciai iki milijono\bin\Debug\Pirminiai skaiciai iki milijono.exe.config
+c:\users\zilvinas\documents\visual studio 2013\Projects\Pirminiai skaiciai iki milijono\Pirminiai skaiciai iki milijono\bin\Debug\Pirminiai skaiciai iki milijono.exe
+c:\users\zilvinas\documents\visual studio 2013\Projects\Pirminiai skaiciai iki milijono\Pirminiai skaiciai iki milijono\bin\Debug\Pirminiai skaiciai iki milijono.pdb
+c:\users\zilvinas\documents\visual studio 2013\Projects\Pirminiai skaiciai iki milijono\Pirminiai skaiciai iki milijono\obj\Debug\Pirminiai skaiciai iki milijono.csprojResolveAssemblyReference.cache
+c:\users\zilvinas\documents\visual studio 2013\Projects\Pirminiai skaiciai iki milijono\Pirminiai skaiciai iki milijono\obj\Debug\Pirminiai skaiciai iki milijono.exe
+c:\users\zilvinas\documents\visual studio 2013\Projects\Pirminiai skaiciai iki milijono\Pirminiai skaiciai iki milijono\obj\Debug\Pirminiai skaiciai iki milijono.pdb
+C:\Users\Zilvinas\Documents\Visual Studio 2013\Projects\GitHub\testas1\Pirminiai skaiciai iki milijono\Pirminiai skaiciai iki milijono\bin\Debug\Pirminiai skaiciai iki milijono.exe.config
+C:\Users\Zilvinas\Documents\Visual Studio 2013\Projects\GitHub\testas1\Pirminiai skaiciai iki milijono\Pirminiai skaiciai iki milijono\obj\Debug\Pirminiai skaiciai iki milijono.exe
+C:\Users\Zilvinas\Documents\Visual Studio 2013\Projects\GitHub\testas1\Pirminiai skaiciai iki milijono\Pirminiai skaiciai iki milijono\obj\Debug\Pirminiai skaiciai iki milijono.pdb
+C:\Users\Zilvinas\Documents\Visual Studio 2013\Projects\GitHub\testas1\Pirminiai skaiciai iki milijono\Pirminiai skaiciai iki milijono\bin\Debug\Pirminiai skaiciai iki milijono.exe
+C:\Users\Zilvinas\Documents\Visual Studio 2013\Projects\GitHub\testas1\Pirminiai skaiciai iki milijono\Pirminiai skaiciai iki milijono\bin\Debug\Pirminiai skaiciai iki milijono.pdb
+C:\Users\Zilvinas\Documents\Visual Studio 2013\Projects\GitHub\testas1\Pirminiai skaiciai iki milijono\Pirminiai skaiciai iki milijono\obj\Debug\Pirminiai skaiciai iki milijono.csprojResolveAssemblyReference.cache
+C:\Users\Zilvinas\Documents\Visual Studio 2015\Projects\GitHub\testas1\2.Pirminiai skaiciai iki milijono\Pirminiai skaiciai iki milijono\bin\Debug\Pirminiai skaiciai iki milijono.exe.config
+C:\Users\Zilvinas\Documents\Visual Studio 2015\Projects\GitHub\testas1\2.Pirminiai skaiciai iki milijono\Pirminiai skaiciai iki milijono\obj\Debug\Pirminiai skaiciai iki milijono.exe
+C:\Users\Zilvinas\Documents\Visual Studio 2015\Projects\GitHub\testas1\2.Pirminiai skaiciai iki milijono\Pirminiai skaiciai iki milijono\obj\Debug\Pirminiai skaiciai iki milijono.pdb

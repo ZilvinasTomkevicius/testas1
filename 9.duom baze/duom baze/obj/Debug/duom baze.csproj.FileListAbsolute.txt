@@ -1,0 +1,6 @@
+c:\users\zilvinas\documents\visual studio 2015\Projects\duom baze\duom baze\bin\Debug\duom baze.exe.config
+c:\users\zilvinas\documents\visual studio 2015\Projects\duom baze\duom baze\bin\Debug\duom baze.exe
+c:\users\zilvinas\documents\visual studio 2015\Projects\duom baze\duom baze\bin\Debug\duom baze.pdb
+c:\users\zilvinas\documents\visual studio 2015\Projects\duom baze\duom baze\obj\Debug\duom baze.csprojResolveAssemblyReference.cache
+c:\users\zilvinas\documents\visual studio 2015\Projects\duom baze\duom baze\obj\Debug\duom baze.exe
+c:\users\zilvinas\documents\visual studio 2015\Projects\duom baze\duom baze\obj\Debug\duom baze.pdb
