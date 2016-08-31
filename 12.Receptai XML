@@ -1,0 +1,44 @@
+<Recipes>	
+	<Recipe ID "1" name="Sandviche_with_cheese">
+		<Product>
+			<Name>Bread</Name>
+			<Quantity>1vnt</Quantity>
+		</Product>
+		<Product>
+			<Name>Cheese</Name>
+			<Quantity>1vnt<Quantity>		
+		</Product>
+		<Product>
+			<Name>Butter</Name>
+			<Quantity>1vnt</Quantity>
+		</Product>
+	</Recipe>
+	<Recipe ID "2" name="Milkshake">
+		<Product>
+			<Name>Banana</Name>
+			<Quantity>1vnt</Quantity>
+		</Product>
+		<Product>
+			<Name>Milk</Name>
+			<Quantity>1vnt</Quantity>
+		</Product>
+	</Recipe>
+	<Recipe ID "3" name="Ceasar's_Salat">
+		<Product>
+			<Name>Bread</Name>
+			<Quantity>2vnt</Quantity>
+		</Product>
+		<Product>
+			<Name>Lettuce</Name>
+			<Quantity>3vnt</Name>
+		</Product>
+		<Product>
+			<Name>Chicken</Name>
+			<Quantity>2vnt</Name>
+		</Product>
+		<Product>
+			<Name>Cheese</Name>
+			<Quantity>2vnt</Name>
+		</Product>
+	</Recipe>
+</Recipes>
