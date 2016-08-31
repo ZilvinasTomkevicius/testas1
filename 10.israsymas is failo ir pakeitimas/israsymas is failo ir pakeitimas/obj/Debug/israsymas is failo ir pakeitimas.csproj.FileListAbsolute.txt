@@ -1,0 +1,6 @@
+c:\users\zilvinas\documents\visual studio 2015\Projects\israsymas is failo ir pakeitimas\israsymas is failo ir pakeitimas\bin\Debug\israsymas is failo ir pakeitimas.exe.config
+c:\users\zilvinas\documents\visual studio 2015\Projects\israsymas is failo ir pakeitimas\israsymas is failo ir pakeitimas\bin\Debug\israsymas is failo ir pakeitimas.exe
+c:\users\zilvinas\documents\visual studio 2015\Projects\israsymas is failo ir pakeitimas\israsymas is failo ir pakeitimas\bin\Debug\israsymas is failo ir pakeitimas.pdb
+c:\users\zilvinas\documents\visual studio 2015\Projects\israsymas is failo ir pakeitimas\israsymas is failo ir pakeitimas\obj\Debug\israsymas is failo ir pakeitimas.csprojResolveAssemblyReference.cache
+c:\users\zilvinas\documents\visual studio 2015\Projects\israsymas is failo ir pakeitimas\israsymas is failo ir pakeitimas\obj\Debug\israsymas is failo ir pakeitimas.exe
+c:\users\zilvinas\documents\visual studio 2015\Projects\israsymas is failo ir pakeitimas\israsymas is failo ir pakeitimas\obj\Debug\israsymas is failo ir pakeitimas.pdb
