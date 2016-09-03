@@ -1,84 +1,84 @@
-<Products>
+<CurrentProducts>
 	<Product ID = "1">
 		<Name>Apple</Name>
 		<Quantity>1vnt</Quantity>
-	<Product>
+	</Product>
 	<Product ID = "2">
 		<Name>Banana</Name>
-		<Quantity>2vnt</Quantity>
-	<Product>
+		<Quantity>1vnt</Quantity>
+	</Product>
 	<Product ID = "3">
 		<Name>Bread</Name>
-		<Quantity>5vnt</Quantity>
-	<Product>
+		<Quantity>1vnt</Quantity>
+	</Product>
 	<Product ID = "4">
 		<Name>Butter</Name>
 		<Quantity>1vnt</Quantity>
-	<Product>
+	</Product>
 	<Product ID = "5">
 		<Name>Cucumber</Name>
-		<Quantity>3vnt</Quantity>
-	<Product>
+		<Quantity>1vnt</Quantity>
+	</Product>
 	<Product ID = "6">
 		<Name>Milk</Name>
 		<Quantity>1vnt</Quantity>
-	<Product>
+	</Product>
 	<Product ID = "7">
 		<Name>Cheese</Name>
 		<Quantity>2vnt</Quantity>
-	<Product>
+	</Product>
 	<Product ID = "8">
 		<Name>Smoked_Sausage</Name>
-		<Quantity>6vnt</Quantity>
-	<Product>
+		<Quantity>1vnt</Quantity>
+	</Product>
 	<Product ID = "9">
 		<Name>Tomato</Name>
-		<Quantity>2vnt</Quantity>
-	<Product>
+		<Quantity>1vnt</Quantity>
+	</Product>
 	<Product ID = "10">
 		<Name>Egg</Name>
-		<Quantity>10vnt</Quantity>
-	<Product>
-	<Product ID = "11">
-		<Name>Bacon_Ham</Name>
 		<Quantity>1vnt</Quantity>
-	<Product>
+	</Product>
+	<Product ID = "11">
+		<Name>Chicken</Name>
+		<Quantity>1vnt</Quantity>
+	</Product>
 	<Product ID = "12">
 		<Name>Chocolate</Name>
 		<Quantity>1vnt</Quantity>
-	<Product>
+	</Product>
 	<Product ID = "13">
 		<Name>Potato</Name>
-		<Quantity>5vnt</Quantity>
-	<Product>
+		<Quantity>1vnt</Quantity>
+	</Product>
 	<Product ID = "14">
 		<Name>Onion</Name>
-		<Quantity>2vnt</Quantity>
-	<Product>
+		<Quantity>1vnt</Quantity>
+	</Product>
 	<Product ID = "15">
 		<Name>Lettuce</Name>
-		<Quantity>4vnt</Quantity>
-	<Product>
+		<Quantity>1vnt</Quantity>
+	</Product>
 	<Product ID = "16">
 		<Name>Sour_Cream</Name>
 		<Quantity>1vnt</Quantity>
-	<Product>
+	</Product>
 	<Product ID = "17">
 		<Name>Tomato_Sauce</Name>
 		<Quantity>1vnt</Quantity>
-	<Product>
+	</Product>
 	<Product ID = "18">
 		<Name>Carrot</Name>
-		<Quantity>4vnt</Quantity>
-	<Product>
+		<Quantity>1vnt</Quantity>
+	</Product>
 	<Product ID = "19">
 		<Name>Orange_Juice</Name>
 		<Quantity>1vnt</Quantity>
-	<Product>
+	</Product>
 	<Product ID = "20">
 		<Name>Salmon</Name>
-		<Quantity>2vnt</Quantity>
-	<Product>
-<Products>
+		<Quantity>1vnt</Quantity>
+	</Product>
+</CurrentProducts>
 	
 	

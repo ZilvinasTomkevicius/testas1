@@ -1,19 +1,20 @@
 <Recipes>	
-	<Recipe ID "1" name="Sandviche_with_cheese">
+	<Recipe ID = "1" name="Sandviche_with_cheese">
 		<Product>
 			<Name>Bread</Name>
 			<Quantity>1vnt</Quantity>
 		</Product>
 		<Product>
 			<Name>Cheese</Name>
-			<Quantity>1vnt<Quantity>		
+			<Quantity>1vnt</Quantity>		
 		</Product>
 		<Product>
 			<Name>Butter</Name>
 			<Quantity>1vnt</Quantity>
 		</Product>
+		<Procesas>apply some butter on bread and put on cheese</Procesas>					
 	</Recipe>
-	<Recipe ID "2" name="Milkshake">
+	<Recipe ID = "2" name="Milkshake">
 		<Product>
 			<Name>Banana</Name>
 			<Quantity>1vnt</Quantity>
@@ -22,23 +23,25 @@
 			<Name>Milk</Name>
 			<Quantity>1vnt</Quantity>
 		</Product>
+		<Procesas>cut banana into average size pieces, pour some milk and blend</Procesas>
 	</Recipe>
-	<Recipe ID "3" name="Ceasar's_Salat">
+	<Recipe ID = "3" name="Ceasar's_Salat">
 		<Product>
 			<Name>Bread</Name>
 			<Quantity>2vnt</Quantity>
 		</Product>
 		<Product>
 			<Name>Lettuce</Name>
-			<Quantity>3vnt</Name>
+			<Quantity>3vnt</Quantity>
 		</Product>
 		<Product>
 			<Name>Chicken</Name>
-			<Quantity>2vnt</Name>
+			<Quantity>2vnt</Quantity>
 		</Product>
 		<Product>
 			<Name>Cheese</Name>
-			<Quantity>2vnt</Name>
+			<Quantity>2vnt</Quantity>
 		</Product>
+		<Procesas>cut chicken and bread into small pieces, put in a bowl, add lettuce and grated cheese</Procesas>
 	</Recipe>
 </Recipes>
