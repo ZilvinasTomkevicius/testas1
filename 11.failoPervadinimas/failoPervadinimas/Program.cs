@@ -11,7 +11,7 @@ namespace failoPervadinimas
     {
         static void Main(string[] args)
             //si programa sukuria .txt faila ivestu parametru pavadinimu. Veliau, failo pavadinima pakeicia kito parametro pavadinimu
-            // parametrus galima ivesti: Properties>Debug>Start Project>Command line arguments
+            // parametrus reikia ivesti: Properties>Debug>Start Project>Command line arguments
         {
             Console.WriteLine("parametrai yra: 1 {0} ir 2 {1} \nprograma sukure .txt faila 1-uoju parametro pavadinimu", args[0], args[1]);
 
