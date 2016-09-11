@@ -19,7 +19,7 @@ namespace failoPervadinimas
 
             string message = "execute time: " + now;                      
 
-            File.WriteAllText(args[0], message); //sukuriame .txt faila
+            File.WriteAllText(args[0], message); //sukuriame .txt faila ir irasome i ji zinute
 
             Console.WriteLine("Paspaudus bet kuri mygtuka, programa pakeis .txt failo pavadinima 2-uoju parametro pavadinimu");
 
