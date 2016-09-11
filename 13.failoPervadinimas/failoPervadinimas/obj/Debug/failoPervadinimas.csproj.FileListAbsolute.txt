@@ -1,0 +1,6 @@
+c:\users\zilvinas\documents\visual studio 2015\Projects\failoPervadinimas\failoPervadinimas\bin\Debug\failoPervadinimas.exe.config
+c:\users\zilvinas\documents\visual studio 2015\Projects\failoPervadinimas\failoPervadinimas\bin\Debug\failoPervadinimas.exe
+c:\users\zilvinas\documents\visual studio 2015\Projects\failoPervadinimas\failoPervadinimas\bin\Debug\failoPervadinimas.pdb
+c:\users\zilvinas\documents\visual studio 2015\Projects\failoPervadinimas\failoPervadinimas\obj\Debug\failoPervadinimas.csprojResolveAssemblyReference.cache
+c:\users\zilvinas\documents\visual studio 2015\Projects\failoPervadinimas\failoPervadinimas\obj\Debug\failoPervadinimas.exe
+c:\users\zilvinas\documents\visual studio 2015\Projects\failoPervadinimas\failoPervadinimas\obj\Debug\failoPervadinimas.pdb
